@@ -6,7 +6,7 @@ package Views;
 
 /**
  *
- * @author kacpe
+ * @author Daniel Moskalewicz
  */
 public class MainWindow extends javax.swing.JFrame {
 
