@@ -9,7 +9,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author kacpe
+ * @author Daniel Moskalewicz
  */
 public class DataUpdateWindow extends javax.swing.JFrame {
 
